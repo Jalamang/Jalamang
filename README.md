@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jalamang
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning programming languages like JavaScript, React, html
+- 🌱 I’m currently learning JavaScript, React, html, CSS SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
